@@ -1,1 +1,6 @@
 Hi Welcome to git's tutorial.
+git clone 
+ls 
+cd SecondRepository/
+ls
+git pull
